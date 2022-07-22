@@ -1,7 +1,6 @@
 todos
 ==========
-https://ibb.co/zZ7Z4BS
-
+![todos](https://ibb.co/zZ7Z4BS)
 
 ### This is Dmytro's Readme.md
 
